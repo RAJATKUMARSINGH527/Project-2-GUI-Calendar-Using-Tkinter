@@ -1,1 +1,2 @@
 # Project-2-GUI-Calendar-Using-Tkinter
+Create beautifully functional calendars with Tkinter and tkcalendar! 📅 Tkinter provides a user-friendly interface, while tkcalendar offers powerful date selection capabilities. Customize your GUI calendar with ease, adding features like event reminders and color-coded entries. Whether it's for personal use or integration into your applications, this dynamic duo makes managing dates a breeze! 💻✨ #Tkinter #GUI #Calendar
